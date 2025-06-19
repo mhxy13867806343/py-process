@@ -1,0 +1,393 @@
+{
+  "monitored_processes": [
+    "node"
+  ],
+  "process_history": [
+    {
+      "timestamp": "2025-06-19T10:36:12.127535",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+        "memory_percent": 0.21262168884277344,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/hbuilderx-language-services/indexservice/out/server/server.js",
+          "--node-ipc",
+          "--clientProcessId=56060"
+        ],
+        "pid": 63978,
+        "create_time": 1750300524.565223,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 36528128,
+          "vms": 36421316608,
+          "pfaults": 108404,
+          "pageins": 36
+        },
+        "cpu_times": {
+          "user": 3.889138432,
+          "system": 0.447445536,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:35:24"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:36:22.226645",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+        "memory_percent": 0.13074874877929688,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+          "/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/common/fileutils/unpack/aaplwatcherapp.js",
+          "--expose-gc"
+        ],
+        "pid": 64156,
+        "create_time": 1750300540.67508,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 22462464,
+          "vms": 421149245440,
+          "pfaults": 4596,
+          "pageins": 5
+        },
+        "cpu_times": {
+          "user": 0.144206624,
+          "system": 0.04002704,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:35:40"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:36:57.356946",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+        "memory_percent": 0.6878852844238281,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/hbuilderx-language-services/indexservice/out/server/server.js",
+          "--node-ipc",
+          "--clientProcessId=56060"
+        ],
+        "pid": 64472,
+        "create_time": 1750300572.165386,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 118177792,
+          "vms": 36421636096,
+          "pfaults": 128725,
+          "pageins": 30
+        },
+        "cpu_times": {
+          "user": 3.997458944,
+          "system": 0.541237504,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:36:12"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:37:02.435498",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+        "memory_percent": 0.19617080688476562,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+          "/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/common/fileutils/unpack/aaplwatcherapp.js",
+          "--expose-gc"
+        ],
+        "pid": 64582,
+        "create_time": 1750300583.243878,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 33701888,
+          "vms": 421149245440,
+          "pfaults": 3708,
+          "pageins": 18
+        },
+        "cpu_times": {
+          "user": 0.146788784,
+          "system": 0.039417332,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:36:23"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:37:42.624022",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+        "memory_percent": 1.0167360305786133,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/hbuilderx-language-services/indexservice/out/server/server.js",
+          "--node-ipc",
+          "--clientProcessId=56060"
+        ],
+        "pid": 64890,
+        "create_time": 1750300617.399148,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 174673920,
+          "vms": 36420460544,
+          "pfaults": 100069,
+          "pageins": 31
+        },
+        "cpu_times": {
+          "user": 3.868235008,
+          "system": 0.430317632,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:36:57"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:37:42.657383",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+        "memory_percent": 0.19893646240234375,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+          "/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/common/fileutils/unpack/aaplwatcherapp.js",
+          "--expose-gc"
+        ],
+        "pid": 64960,
+        "create_time": 1750300623.449154,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 34177024,
+          "vms": 421149245440,
+          "pfaults": 3824,
+          "pageins": 3
+        },
+        "cpu_times": {
+          "user": 0.142457408,
+          "system": 0.036624664,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:37:03"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:38:22.855567",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+        "memory_percent": 0.12035369873046875,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+          "/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/common/fileutils/unpack/aaplwatcherapp.js",
+          "--expose-gc"
+        ],
+        "pid": 65369,
+        "create_time": 1750300663.664145,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 20676608,
+          "vms": 421149245440,
+          "pfaults": 4195,
+          "pageins": 5
+        },
+        "cpu_times": {
+          "user": 0.149469952,
+          "system": 0.045306664,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:37:43"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:38:27.879091",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+        "memory_percent": 0.20761489868164062,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/hbuilderx-language-services/indexservice/out/server/server.js",
+          "--node-ipc",
+          "--clientProcessId=56060"
+        ],
+        "pid": 65357,
+        "create_time": 1750300662.655417,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 35667968,
+          "vms": 36429905920,
+          "pfaults": 103367,
+          "pageins": 32
+        },
+        "cpu_times": {
+          "user": 4.00084736,
+          "system": 0.555920064,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:37:42"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:39:03.076447",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+        "memory_percent": 0.18663406372070312,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+          "/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/common/fileutils/unpack/aaplwatcherapp.js",
+          "--expose-gc"
+        ],
+        "pid": 65755,
+        "create_time": 1750300703.867905,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 32063488,
+          "vms": 421149523968,
+          "pfaults": 4689,
+          "pageins": 131
+        },
+        "cpu_times": {
+          "user": 0.14270312,
+          "system": 0.048008124,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:38:23"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:39:14.545308",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+        "memory_percent": 1.0434150695800781,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/node/node",
+          "/Applications/HBuilderX 2.app/Contents/HBuilderX/plugins/hbuilderx-language-services/indexservice/out/server/server.js",
+          "--node-ipc",
+          "--clientProcessId=56060"
+        ],
+        "pid": 65785,
+        "create_time": 1750300707.917787,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 179257344,
+          "vms": 36420435968,
+          "pfaults": 100932,
+          "pageins": 30
+        },
+        "cpu_times": {
+          "user": 3.88818816,
+          "system": 0.45506816,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:38:27"
+      },
+      "reason": "timeout",
+      "result": "success"
+    },
+    {
+      "timestamp": "2025-06-19T10:39:44.742107",
+      "action": "terminate",
+      "process": {
+        "status": "running",
+        "exe": "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+        "memory_percent": 0.13370513916015625,
+        "username": "hooksvue",
+        "cmdline": [
+          "/Applications/wechatwebdevtools.app/Contents/Frameworks/nwjs Framework.framework/Versions/91.0.4472.114/Helpers/wechatwebdevtools Helper (Renderer).app/Contents/MacOS/node",
+          "/Applications/wechatwebdevtools.app/Contents/Resources/package.nw/js/common/fileutils/unpack/aaplwatcherapp.js",
+          "--expose-gc"
+        ],
+        "pid": 66154,
+        "create_time": 1750300744.088516,
+        "cpu_percent": 0.0,
+        "name": "node",
+        "memory_info": {
+          "rss": 22970368,
+          "vms": 421283479552,
+          "pfaults": 3874,
+          "pageins": 3
+        },
+        "cpu_times": {
+          "user": 0.14434616,
+          "system": 0.03602754,
+          "children_user": 0.0,
+          "children_system": 0.0
+        },
+        "create_time_formatted": "2025-06-19 10:39:04"
+      },
+      "reason": "timeout",
+      "result": "success"
+    }
+  ],
+  "menu_history": [
+    "node"
+  ],
+  "monitor_network": false,
+  "batch_mode": true,
+  "max_terminate_count": -1,
+  "process_terminate_limits": {}
+}
